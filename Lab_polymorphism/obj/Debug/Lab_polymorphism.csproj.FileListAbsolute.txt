@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\bin\Debug\Lab_polymorphism.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\bin\Debug\Lab_polymorphism.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\bin\Debug\Lab_polymorphism.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\obj\Debug\Lab_polymorphism.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\obj\Debug\Lab_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\obj\Debug\Lab_polymorphism.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_polymorphism\Lab_polymorphism\obj\Debug\Lab_polymorphism.pdb
